@@ -1,7 +1,3 @@
-# gemini-pro-model
-
-# End-To-End-Gemini-Project
-
 # End-to-End Gemini Pro Project
 
 ## Overview
